@@ -1,4 +1,4 @@
-# plantuml [![CTAN](https://img.shields.io/badge/CTAN-plantuml-blue.svg?style=flat-square)](https://ctan.org/pkg/plantuml)
+# plant-uml [![CTAN](https://img.shields.io/badge/CTAN-plantuml-blue.svg?style=flat-square)](https://ctan.org/pkg/plant-uml)
 
 > A LuaLaTeX package for PlantUML in LaTeX
 
