@@ -2,7 +2,7 @@
 
 > A LuaLaTeX package for PlantUML in LaTeX
 
-[PlantUML](http://plant-uml.com/) is a program which transforms text into UML diagrams.
+[PlantUML](http://plantuml.com/) is a program which transforms text into UML diagrams.
 This package allows for embedding PlantUML diagrams using the PlantUML source.
 
 Currently, this project runs with [lualatex](http://www.luatex.org/) only.
@@ -10,7 +10,7 @@ Check [issue #1](https://github.com/jeff-tian/plantuml/issues/1) for the current
 
 ## Preconditions
 
-1. Environment variable `PLANTUML_JAR` set to the location of `plant-uml.jar`.
+1. Environment variable `PLANTUML_JAR` set to the location of `plantuml.jar`.
    You get it from <https://sourceforge.net/projects/plantuml/files/plantuml.jar/download>.
 2. Enviroment variable `GRAPHVIZ_DOT` set to the location of `dot.exe`.
    Example: `C:\Program Files (x86)\Graphviz2.38\bin\dot.exe`.
